@@ -1,0 +1,6 @@
+customer_id,name,segment,region,customer_value,account_age,loyalty_tier,preferred_channel
+C10001,Ananya Rao,Premium,South,850000,48,Platinum,chat
+C10002,Ravi Kumar,Standard,South,120000,18,Silver,email
+C10003,Meera Iyer,Premium,West,540000,36,Gold,voice
+C10004,Arjun Shah,Standard,North,95000,12,Silver,chat
+C10005,Priya Nair,Premium,South,610000,42,Gold,email

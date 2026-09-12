@@ -1,0 +1,6 @@
+shipment_id,order_id,carrier,origin,destination,hub,status,delay_reason
+S70001,O90001,Carrier-X,Chennai,Bengaluru,Chennai Hub,delayed,Operational Delay
+S70002,O90002,Carrier-Y,Hyderabad,Chennai,Hyderabad Hub,in_transit,None
+S70003,O90003,Carrier-X,Mumbai,Pune,Mumbai Hub,delivered,None
+S70004,O90004,Carrier-Z,Delhi,Jaipur,Delhi Hub,in_transit,None
+S70005,O90005,Carrier-X,Chennai,Coimbatore,Chennai Hub,delayed,Operational Delay

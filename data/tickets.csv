@@ -1,0 +1,6 @@
+ticket_id,customer_id,order_id,category,description,priority,status
+T50001,C10001,O90001,delivery,Customer reported late delivery,critical,resolved
+T50002,C10001,O90001,delivery,Customer followed up on delayed order,high,resolved
+T50003,C10002,O90002,delivery,Customer asked for ETA,medium,resolved
+T50004,C10003,O90003,general,Customer requested invoice,low,resolved
+T50005,C10005,O90005,delivery,Customer reported late delivery,high,open

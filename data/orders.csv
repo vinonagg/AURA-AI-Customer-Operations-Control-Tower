@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,promised_date,actual_date,order_value,status
+O90001,C10001,2026-09-01,2026-09-05,,85000,delayed
+O90002,C10002,2026-09-04,2026-09-09,,12000,in_transit
+O90003,C10003,2026-09-03,2026-09-07,2026-09-07,54000,delivered
+O90004,C10004,2026-09-05,2026-09-10,,9500,in_transit
+O90005,C10005,2026-09-02,2026-09-06,,61000,delayed

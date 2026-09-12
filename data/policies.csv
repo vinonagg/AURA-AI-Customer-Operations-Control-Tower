@@ -1,0 +1,6 @@
+policy_id,category,policy_text,eligibility,approval_required
+P001,delivery,"SLA-breached premium customers may receive up to INR 1000 goodwill credit and priority escalation.",Premium or Gold/Platinum,No below threshold
+P002,delivery,"Standard customers may receive up to INR 500 goodwill credit for verified carrier delays.",Standard,No below threshold
+P003,refund,"Refunds above INR 1000 require human approval and evidence of eligibility.",Eligible refund cases,Yes above threshold
+P004,cancellation,"Orders not dispatched may be cancelled automatically when policy eligibility is confirmed.",Not dispatched,No
+P005,high_risk,"Legal, safety, fraud or regulatory complaints require human review.",High risk,Yes
