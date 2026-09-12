@@ -204,7 +204,6 @@ See `SECURITY.md` and `config/production-checklist.md`.
 
 > **Built an agentic AI customer-operations control tower that grounds resolutions in enterprise policy, investigates customer/order/shipment evidence, automates low-risk actions, escalates higher-risk decisions to humans, exposes an auditable decision trail, and quantifies the operational value opportunity.**
 
-The project is intentionally positioned around **AI program delivery, governance, operational transformation and measurable business impact**, with the technical implementation supporting the leadership story.
 
 ## License / usage
 
